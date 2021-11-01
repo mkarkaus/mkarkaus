@@ -1,6 +1,6 @@
 ### Hiya! 👋
 
-You've landed on a github page of a big time tech enthusiast and current software developer student of 42 school [Hive Helsinki](https://www.hive.fi/en/) :book: that enjoys working with people. The harsh "zero mistakes" mentality of 42 curriculum has definitely made me be mindful of seemingly small things. Currently I'm working in C on [Corewar](https://github.com/mkarkaus/Corewar), the last project of the first part of algorithm branch.
+You've landed on a github page of a big time tech enthusiast and former software developer student of 42 school [Hive Helsinki](https://www.hive.fi/en/) :book: that enjoys working with people. The harsh "zero mistakes" mentality of 42 curriculum has definitely made me be mindful of seemingly small things. Currently I'm working in C on [Corewar](https://github.com/mkarkaus/Corewar), the last project of the first part of algorithm branch.
 
 :small_blue_diamond: 42 Project called [Lem-in](https://github.com/mkarkaus/Lem_in) is my latest feat of C language :small_blue_diamond:
 
