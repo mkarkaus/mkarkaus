@@ -18,8 +18,6 @@ Other technologies that I'm familiar with include Unix, MySQL, Docker, HTML and 
 
 My freetime usually consists of trying out new coding languages or discovering neat technologies online :computer: or through my network. I also enjoy video games :video_game:, frisbee golf :flying_disc: and other sports. Extensive background in competitive international badminton :badminton: gave me mental skills to pursue new interests and persevere despite roadbumps. The love for sports has stayed with me to this day.
 
-:bangbang: **I'm currently looking for junior software developer position in Helsinki metropolitan area** :bangbang:
-
 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/miikka-karkaus/) 📫
 <!--
 **mkarkaus/mkarkaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
